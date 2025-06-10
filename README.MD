@@ -8,6 +8,6 @@ Demo :  [https://creativevault.ovh/images/screen-capture.webm](https://creativev
 
 4. section' whats new cliff'- he doesn't want this like fb as if hes going to post comments etc- this is 1 to 1 so people only chatting amongst themselves.
 I changed the position of the element, so the feed is no longer visible on the profile
-<img src="https://creativevault.ovh/images/profile.png" width="500" />
+<img src="https://creativevault.ovh/images/profile.png" width="700" />
 
 
