@@ -3,7 +3,11 @@
 
 Demo :  [https://creativevault.ovh/images/screen-capture.webm](https://creativevault.ovh/images/screen-capture.webm)
 
+2. when logged in- edit cover photo- atm automatically goes to own profile- no instruction on what to do- so wants to push the person straight away- when logging into account just goes to own profile but would prefer if other peoples content showed up so can start interacting with.
+- It will land on the Near Me page after the account setup
 
-
+4. section' whats new cliff'- he doesn't want this like fb as if hes going to post comments etc- this is 1 to 1 so people only chatting amongst themselves.
+I changed the position of the element, so the feed is no longer visible on the profile
+<img src="https://creativevault.ovh/images/profile.png" width="500" />
 
 
