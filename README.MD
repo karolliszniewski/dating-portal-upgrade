@@ -1,13 +1,56 @@
-1. Wants whole site - easy to navigate - should be direct - sign up here - fill out profile - start browsing profiles
-- Registration is in the hero section. After registering, users are redirected to the Edit Profile page. A modal appears asking them to confirm they are 18 or older. If they do not accept, they will be logged out. If they try to leave the form without filling it out, a red error message will appear at the top of the screen and they will be redirected back to the form. After completing the form, they will be taken to the Near Me page
+# Dating Platform Features
 
-Demo :  [https://creativevault.ovh/images/screen-capture.webm](https://creativevault.ovh/images/screen-capture.webm)
+## 1. Streamlined Registration Process
+- Registration is prominently placed in the hero section
+- After registering, users are:
+  - Redirected to the Edit Profile page
+  - Shown an age verification modal (must confirm 18+)
+    - Declining logs user out
+  - Required to complete profile before proceeding
+    - Incomplete forms show red error messages
+    - Users are redirected back until form is complete
+- After completion, users land on the "Near Me" page
 
-2. when logged in- edit cover photo- atm automatically goes to own profile- no instruction on what to do- so wants to push the person straight away- when logging into account just goes to own profile but would prefer if other peoples content showed up so can start interacting with.
-- It will land on the Near Me page after the account setup
+📹 [View Demo](https://creativevault.ovh/images/screen-capture.webm)
 
-4. section' whats new cliff'- he doesn't want this like fb as if hes going to post comments etc- this is 1 to 1 so people only chatting amongst themselves.
-I changed the position of the element, so the feed is no longer visible on the profile
-<img src="https://creativevault.ovh/images/profile.png" width="700" />
+## 2. Optimized User Flow
+- After account setup, users land directly on "Near Me" page to start browsing profiles
+- Removed unnecessary profile landing (goes straight to other users' content)
 
+## 3. Clean Profile Interface
+- Removed Facebook-style "What's New" feed (focused on 1-to-1 interactions)
+- Reorganized profile layout  
+  <img src="https://creativevault.ovh/images/profile.png" width="700" />
 
+## 4. Core Features
+- **Navigation Menu** (visible when logged in):
+  - My Matches | Near Me | Meet Me | My Favorites
+  - Homepage redirects to members page  
+    <img src="https://creativevault.ovh/images/nav.png" width="700"/>
+
+- **Notification System**:
+  - Message notifications
+  - Bell icon for alerts  
+    <img src="https://creativevault.ovh/images/nty.png" width="700"/>
+
+- **Near Me Functionality**:
+  - Implemented (requires Google Maps API keys)
+
+## 5. Credit System
+- Top-up system in place
+- Needs payment system integration
+
+## 6. Profile Browsing
+- Members page serves as homepage
+- Scrollable profile cards  
+  <img src="https://creativevault.ovh/images/members.png" width="700"/>
+
+## 7. Anti-Spam Messaging
+- Limits to 1 message without reply
+- Warning displayed for unanswered messages  
+  <img src="https://creativevault.ovh/images/mes.png" width="700"/>
+
+## 8. Simplified Landing Page
+- Clean, straightforward design
+- Two-step registration feature added
+- Login moved from hero section
