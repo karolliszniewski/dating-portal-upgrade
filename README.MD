@@ -34,7 +34,7 @@
     <img src="https://creativevault.ovh/images/nty.png" width="700"/>
 
 - **Near Me Functionality**:
-  - Implemented (requires Google Maps API keys)
+  - requires Google Maps API keys
 
 ## 5. Credit System
 - Top-up system in place
@@ -53,4 +53,4 @@
 ## 8. Simplified Landing Page
 - Clean, straightforward design
 - Two-step registration feature added
-- Login moved from hero section
+- Auto-login
