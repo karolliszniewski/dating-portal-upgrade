@@ -79,7 +79,7 @@
 ---
 
 
-# Dating Platform Features
+# Dating Platform Features 1.0
 
 ## 1. Streamlined Registration Process
 - Registration is prominently placed in the hero section
