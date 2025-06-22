@@ -1,3 +1,84 @@
+# Dating Platform Features Update 2.0
+
+## 🔹 Video Presentation (Updated Walkthrough)
+**Watch the full updated registration flow here:**  
+📹 https://creativevault.ovh/images/update.webm
+
+---
+
+## ✳️ New Registration Experience
+
+🗨️ _"I like the instant sign up but sign up box is too big, dominating and blank. This could be smaller and then some info could be added to the right side of it in the empty space to prevent lots of scrolling for info below."_
+
+✅ **Hero section updated**: Registration box is now smaller, with informative content added on the right side.
+
+<img src="https://creativevault.ovh/images/hero23.png" width="700"/>
+
+---
+
+## 🎨 Branding & Color Scheme
+
+🗨️ _"I would also want the colour scheme to match the logo. So a more blue theme or I can change the logo."_
+
+✅ **Updated color palette to match the new logo:**  
+🌐 [View new logo](https://wordpress-1103980-5325506.cloudwaysapps.com/wp-content/uploads/Dingaling-e1750356623993.webp)
+
+---
+
+## 🔐 Login & Registration Flow
+
+🗨️ _"When pressing login at the top right, there needs to be a bit that gives the option to sign up if they don’t have an account."_
+
+✅ **Login and Register now use tab interface:**
+
+<img src="https://creativevault.ovh/images/login-register.png" width="700"/>
+
+🗨️ _"The box then extends and asks for first name and last name. It doesn’t really need that, a username is more important as it’s a fun dating site, so too much info too early."_
+
+✅ **First name / Last name removed from signup form:**
+
+<img src="https://creativevault.ovh/images/register-new.png" width="700"/>
+
+🗨️ _"Date of birth entry needs to be in date, month, year order, at the moment it is the other way round."_
+
+✅ **Date of birth format fixed to DD/MM/YYYY:**
+
+<img src="https://creativevault.ovh/images/order.png" width="700"/>
+
+🗨️ _"When I tried to sign up it said “something went wrong, please try again later” so I could not sign up and test any further."_
+
+✅ **No errors now — Registration is working properly**
+
+---
+
+## 🔻 Footer Cleanup
+
+🗨️ _"The info at the bottom looks messy so we can minimise to what is essential (example below)"_
+
+✅ **Footer redesigned for minimalism and clarity:**
+
+<img src="https://creativevault.ovh/images/footer.png" width="700"/>
+
+---
+
+## 👤 Profile Improvements
+
+🗨️ _"I have clicked on a profile and I can see a want to meet me image that is nothing to do with the profile. It’s a bit confusing"_
+
+✅ **Widget removed from profile pages**
+
+---
+
+## 🚀 Onboarding & Call to Action
+
+🗨️ _"The general user needs to be able to understand quickly before losing interest. There are no obvious calls to action."_
+
+✅ **Users are now redirected to an example profile with an introduction**  
+✅ **Main navigation buttons include tooltip descriptions**
+
+---
+
+
 # Dating Platform Features
 
 ## 1. Streamlined Registration Process
